@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://santiago-create.github.io/JQuery-Exercises/)
+[Live Demo Link](https://santiago-create.github.io/technical-documentation-page/)
 
 ## Getting Started
 
